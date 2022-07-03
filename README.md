@@ -1,8 +1,8 @@
-# Jogo Mario Bros.
+# Super Mario Bros. game
 
-Projeto simples, simulando o jogo Mario Bros.
+Simple project, recreating Super Mario Bros. game from 80/90's.
 
-Linguagens utilizadas: HTML, CSS e JavaScript.
+Languages used: HTML, CSS e JavaScript.
 
 ![jogoMario](https://user-images.githubusercontent.com/100729378/177012744-076d71b5-b626-42d8-9810-69e08c53dcf5.jpg)
 
