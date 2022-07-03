@@ -4,12 +4,16 @@ Simple project, recreating Super Mario Bros. game from 80/90's.
 
 Languages used: HTML, CSS e JavaScript.
 
-![jogoMario](https://user-images.githubusercontent.com/100729378/177012744-076d71b5-b626-42d8-9810-69e08c53dcf5.jpg)
+![superMarioBros1](https://user-images.githubusercontent.com/100729378/177051291-56ca8067-f31b-4325-b257-ed4317c942b1.jpg)
 
-![jogoMario1](https://user-images.githubusercontent.com/100729378/177012758-c6bfc6a8-9923-4bbb-b903-1fefaafdd878.jpg)
+![superMarioBros](https://user-images.githubusercontent.com/100729378/177051298-e4290e30-a8da-426d-ade2-786dffa88989.jpg)
 
 
-#Video
+# Video
 
-https://user-images.githubusercontent.com/100729378/177012695-e06b63d6-34e6-4eba-9194-4ab548ba338c.mp4
+
+https://user-images.githubusercontent.com/100729378/177051307-63acc78b-7e48-4f86-8716-01c632c9d3cb.mp4
+
+
+
 
